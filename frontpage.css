@@ -1,0 +1,12 @@
+header.navbar {
+	margin-bottom: 0;
+}
+
+video {
+	width:100%;
+	height: auto;
+}
+
+div.col-sm-12 {
+	padding: 0;
+}
